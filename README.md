@@ -2,7 +2,7 @@
 
 Dashboard interactivo en **Power BI** que analiza el meta competitivo de League of Legends usando datos reales de Oracle Elixir (Season 2026).
 
-![Meta Overview](capturas/01_meta_overview.png)
+![Meta Overview](capturas/01_meta_overview.jpg)
 
 ---
 
@@ -20,17 +20,17 @@ Dashboard interactivo en **Power BI** que analiza el meta competitivo de League 
 ### 1. Meta Overview
 Tabla completa de campeones con picks, bans, presence% y winrate. Top campeones por winrate y por games jugados. Distribución de campeones únicos por patch.
 
-![Meta Overview](capturas/01_meta_overview.png)
+![Meta Overview](capturas/01_meta_overview.jpg)
 
 ### 2. Champion Role Explorer
 Análisis por rol con scatter de Pickrate% vs Winrate% y evolución del meta por patch. Filtro interactivo por rol (top/jng/mid/bot/sup).
 
-![Role Explorer](capturas/02_role_explorer.png)
+![Role Explorer](capturas/02_role_explorer.jpg)
 
 ### 3. Synergy Analyzer
 Top dúos por winrate con splash arts automáticos del mejor dúo según el filtro activo.
 
-![Synergy Analyzer](capturas/03_synergy_analyzer.png)
+![Synergy Analyzer](capturas/03_synergy_analyzer.jpg)
 
 ### 4. Early Game & Objectives
 Impacto de gold diff @15 por posición, winrate por primer objetivo y dominancia de early game por liga.
