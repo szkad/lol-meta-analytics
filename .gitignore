@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datos (generados localmente, no se suben)
+data/raw/
+data/processed/
+*.duckdb
+*.parquet
+
+# Power BI temporales
+*.pbix.bak
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
